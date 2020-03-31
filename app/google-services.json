@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "355092661393",
+    "firebase_url": "https://makemoneyfast-d3496.firebaseio.com",
+    "project_id": "makemoneyfast-d3496",
+    "storage_bucket": "makemoneyfast-d3496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355092661393:android:c94ad286fa93afaa",
+        "android_client_info": {
+          "package_name": "ua.com.anyapps.makemoneyfast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355092661393-3ib5p6e5o12c2gtc1o5ahdj2dhptbl9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ua.com.anyapps.makemoneyfast",
+            "certificate_hash": "617f38e710aa8f188c9a8e73ebfdd91749991df8"
+          }
+        },
+        {
+          "client_id": "355092661393-n1i01ug4dojchvof0f93im79hsf6pvlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ua.com.anyapps.makemoneyfast",
+            "certificate_hash": "d07ffd8d4461b4916e84be8295c9c9326adee123"
+          }
+        },
+        {
+          "client_id": "355092661393-0e5cn0jn5ht106e3g68cp1b6a674bpvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU1hMXMOb2jEl-YQ1S_wwjJK4KUz36xr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355092661393-0e5cn0jn5ht106e3g68cp1b6a674bpvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

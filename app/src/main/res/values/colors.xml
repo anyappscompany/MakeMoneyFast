@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!-- https://coolors.co/231942-5e548e-9f86c0-be95c4-e0b1cb -->
+    <color name="colorPrimary">#5E548E</color>
+    <color name="colorPrimaryDark">#231942</color>
+    <color name="colorAccent">#9F86C0</color>
+    <!-- Цвет строки - можно фоткать -->
+    <!-- <color name="colorPlaceInRadius">#CCD8BF</color> -->
+    <color name="compassPhoneInZone">#4CAF50</color>
+    <color name="compassPhoneOutOfZone">#F44336</color>
+</resources>

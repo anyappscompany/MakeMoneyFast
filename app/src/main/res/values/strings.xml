@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">MakeMoneyFast</string>
+
+    <string name="progress_dialogLoading_text">Please wait...</string>
+
+    <string name="email_password_status_string_message_0"></string>
+    <string name="email_password_status_string_message_1">Authentication failed</string>
+    <string name="sign_in_btn_text">Sign in</string>
+    <string name="registration_btn_text">Registration</string>
+    <string name="et_email_hint_text">email@example.com</string>
+    <string name="et_password_hint_text">password</string>
+
+    <string name="main_menu_settings_title">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="gps_settings">GPS</string>
+    <string name="gps_detect_radius_title">Search places in radius(m)</string>
+    <string name="gps_detect_default_radius">100</string>
+
+    <string name="gps_default_minimum_time_between_receiving_data">10</string>
+    <string name="gps_minimum_time_between_receiving_data_title">Minimum time between receiving data(s)</string>
+
+    <string name="gps_default_minimum_distance_to_update">10</string>
+    <string name="gps_minimum_distance_to_update_title">Minimum distance to update(m)</string>
+
+    <string name="explanation_message">The application needs to receive data from the phone’s GPS sensor to determine your location. Do you agree to grant permission for this?</string>
+    <string name="explanation_positive_button">Okay</string>
+    <string name="explanation_negative_button">No</string>
+
+    <string name="enable_gps_message">Work of the application without GPS is impossible. Do you want to enable it?</string>
+    <string name="enable_gps_positive_button">Yes</string>
+    <string name="enable_gps_negative_button">No</string>
+
+    <string name="nearby_places_list_item_distance_title">Distance: </string>
+    <string name="nearby_places_list_item_distance_unit_title"> m</string>
+    <string name="nearby_places_list_item_vicinity_title">Vicinity: </string>
+
+    <!-- расстояние до объекта когда можно делать фото -->
+    <integer name="distance_when_can_take_photo">50</integer>
+
+    <string name="compass_tab1_title">Photo</string>
+    <string name="compass_tab2_title">Map</string>
+
+    <string name="upload_photo_failed_toast_text">Failed to save photo</string>
+
+    <string name="congratulatory_dialog_positive_button_text">Thanks!</string>
+    <string name="congratulatory_dialog_title">Congratulations!!!!</string>
+
+    <string name="photo_time_limit1">Time limit</string>
+    <string name="photo_time_limit2">min</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_finance">Finance</string>
+    <string name="menu_earn_money">Earn money</string>
+    <string name="tv_balance_text">Your balance</string>
+
+    <string name="get_balance_failed_toast_text">Error while receiving balance</string>
+    <string name="et_card_number_hint">Card number</string>
+    <string name="duplicate_withdrawal_request_money">You have already created request. Expect a payout.</string>
+    <string name="request_for_payment_created">Request for payment created. Expect.</string>
+    <string name="menu_exit_app">Exit</string>
+    <string name="banner_ad_unit_id"></string>
+    <string name="main_menu_exit_app_title">Exit</string>
+
+    <string name="btn_payout_order_text">Withdraw</string>
+
+    <string name="no_minimal_sum_text">The account has insufficient amount to withdraw. More is required</string>
+    <string name="send_photo_button_text">Send</string>
+</resources>

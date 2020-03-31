@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">MakeMoneyFast</string>
+
+    <string name="progress_dialogLoading_text">Пожалуйста ожидайте...</string>
+
+    <string name="email_password_status_string_message_0"></string>
+    <string name="email_password_status_string_message_1">Ошибка аутентификации</string>
+    <string name="sign_in_btn_text">Вход</string>
+    <string name="registration_btn_text">Регистрация</string>
+    <string name="et_email_hint_text">мояпочта@пример.com</string>
+    <string name="et_password_hint_text">пароль</string>
+
+    <string name="main_menu_settings_title">Настройки</string>
+    <string name="title_activity_settings">Настройки</string>
+
+    <!-- Preference Titles -->
+    <string name="gps_settings">GPS</string>
+    <string name="gps_detect_radius_title">Находить объекты в радиусе (м)</string>
+    <string name="gps_detect_default_radius">100</string>
+
+    <string name="gps_default_minimum_time_between_receiving_data">10</string>
+    <string name="gps_minimum_time_between_receiving_data_title">Мин. время между получением данных (с)</string>
+
+    <string name="gps_default_minimum_distance_to_update">10</string>
+    <string name="gps_minimum_distance_to_update_title">Мин. расстояние для обновления (м)</string>
+
+    <string name="explanation_message">Приложению необходимо получать данные от GPS-датчика телефона, чтобы определять ваше местоположение. Согласны ли вы дать разрешение на это?</string>
+    <string name="explanation_positive_button">Хорошо</string>
+    <string name="explanation_negative_button">Нет</string>
+
+    <string name="enable_gps_message">Работа приложения без GPS невозможна. Вы хотите включить его?</string>
+    <string name="enable_gps_positive_button">Да</string>
+    <string name="enable_gps_negative_button">Нет</string>
+
+    <string name="nearby_places_list_item_distance_title">Дистанция: </string>
+    <string name="nearby_places_list_item_distance_unit_title"> м</string>
+    <string name="nearby_places_list_item_vicinity_title">Район: </string>
+
+    <!-- расстояние до объекта когда можно делать фото -->
+    <integer name="distance_when_can_take_photo">50</integer>
+
+    <string name="compass_tab1_title">Фото</string>
+    <string name="compass_tab2_title">Карта</string>
+
+    <string name="upload_photo_failed_toast_text">Ошибка при сохранении фото</string>
+
+    <string name="congratulatory_dialog_positive_button_text">Спасибо!</string>
+    <string name="congratulatory_dialog_title">Поздравляем!!!!</string>
+
+    <string name="photo_time_limit1">Лимит времени</string>
+    <string name="photo_time_limit2">мин</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Инфопанель</string>
+    <string name="menu_finance">Финансы</string>
+    <string name="menu_earn_money">Миссии</string>
+    <string name="tv_balance_text">Ваш баланс</string>
+
+    <string name="get_balance_failed_toast_text">Ошибка при получении баланса</string>
+    <string name="et_card_number_hint">Номер карты</string>
+    <string name="duplicate_withdrawal_request_money">Вы уже создали запрос. Ожидайте выплату.</string>
+    <string name="request_for_payment_created">Запрос на выплату создан. Ожидайте.</string>
+    <string name="menu_exit_app">Выход</string>
+    <string name="banner_ad_unit_id"></string>
+    <string name="main_menu_exit_app_title">Выход</string>
+    <string name="btn_payout_order_text">Вывести</string>
+
+    <string name="no_minimal_sum_text">На счету недостаточная суммма для вывода. Требуется более</string>
+    <string name="send_photo_button_text">Отправить</string>
+
+</resources>

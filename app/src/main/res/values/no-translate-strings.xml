@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="preference_file_key">app_preference_file_key</string>
+    <integer name="period">3600000</integer>
+    <integer name="distance">100</integer><!-- радиус в котором можно фото -->
+</resources>
